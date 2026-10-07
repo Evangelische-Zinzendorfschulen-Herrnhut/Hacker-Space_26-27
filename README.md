@@ -19,7 +19,7 @@ einfachen Pong-Projekt mit Tastensteuerung
 Variante von Pong v2.0 mit Maussteuerung
 
 ## Simple Platformer Projects
-Simple platformer start with a player and a platform to walk on
+Simple platformer game with a player and a platform to walk on
 - AnimatedSprite2d ist used for animation
 - player can run in both directions and jump
 
