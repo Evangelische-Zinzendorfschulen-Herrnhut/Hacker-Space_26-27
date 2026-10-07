@@ -8,6 +8,7 @@ einfachen Pong-Projekt mit Tastensteuerung
 - StaticBody2D
 - ColorRect
 - CollisionShape2D
+- AnimatedSprite2D
 
 ### Szenen
 - Player
@@ -18,6 +19,9 @@ einfachen Pong-Projekt mit Tastensteuerung
 Variante von Pong v2.0 mit Maussteuerung
 
 ## Simple Platformer Projects
+Simple platformer start with a player and a platform to walk on
+- AnimatedSprite2d ist used for animation
+- player can run in both directions and jump
 
 ## ActionRPG
 Projekt angelehnt an das Tutorial [Godot 4 Action RPG](https://www.youtube.com/watch?v=l_yTe50tHVg&list=PL9FzW-m48fn3H1URoqV6QorDpszCBIwt7&index=1) von [Heartbeast](https://www.youtube.com/@uheartbeast)
