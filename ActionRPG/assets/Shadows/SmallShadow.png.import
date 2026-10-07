@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d054es7651mfr"
-path="res://.godot/imported/SmallShadow.png-f24fb614c7432760cd1c04730bd8d637.ctex"
+path="res://.godot/imported/SmallShadow.png-36344174d69df4da73fbc5ffae0e9c51.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Action RPG Resources/Shadows/SmallShadow.png"
-dest_files=["res://.godot/imported/SmallShadow.png-f24fb614c7432760cd1c04730bd8d637.ctex"]
+source_file="res://assets/Shadows/SmallShadow.png"
+dest_files=["res://.godot/imported/SmallShadow.png-36344174d69df4da73fbc5ffae0e9c51.ctex"]
 
 [params]
 

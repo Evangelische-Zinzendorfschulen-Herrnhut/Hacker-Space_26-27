@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chhgfpu1q83k8"
-path="res://.godot/imported/EnemyDeathEffect.png-fba4fbd758e5e3e6479cb23446fc248f.ctex"
+path="res://.godot/imported/EnemyDeathEffect.png-5c329254bfe7cc58aa8bb08400fccdc3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Action RPG Resources/Effects/EnemyDeathEffect.png"
-dest_files=["res://.godot/imported/EnemyDeathEffect.png-fba4fbd758e5e3e6479cb23446fc248f.ctex"]
+source_file="res://assets/Effects/EnemyDeathEffect.png"
+dest_files=["res://.godot/imported/EnemyDeathEffect.png-5c329254bfe7cc58aa8bb08400fccdc3.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c2m1l63pfbu2i"
-path="res://.godot/imported/Hit.wav-db5d51cae973e371796e927744ca312c.sample"
+path="res://.godot/imported/Hit.wav-0f5373ce1ae477f48f51a787bdb97faf.sample"
 
 [deps]
 
-source_file="res://assets/Action RPG Resources/Music and Sounds/Hit.wav"
-dest_files=["res://.godot/imported/Hit.wav-db5d51cae973e371796e927744ca312c.sample"]
+source_file="res://assets/Music and Sounds/Hit.wav"
+dest_files=["res://.godot/imported/Hit.wav-0f5373ce1ae477f48f51a787bdb97faf.sample"]
 
 [params]
 

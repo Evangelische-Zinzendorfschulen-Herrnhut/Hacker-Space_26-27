@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://butryybbgt3b"
-path="res://.godot/imported/DirtTileset.png-dfddc4abe882491a8d633256c8331c98.ctex"
+path="res://.godot/imported/DirtTileset.png-4f0b9daeb08ac99fdb02985385bcf3fe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Action RPG Resources/World/DirtTileset.png"
-dest_files=["res://.godot/imported/DirtTileset.png-dfddc4abe882491a8d633256c8331c98.ctex"]
+source_file="res://assets/World/DirtTileset.png"
+dest_files=["res://.godot/imported/DirtTileset.png-4f0b9daeb08ac99fdb02985385bcf3fe.ctex"]
 
 [params]
 

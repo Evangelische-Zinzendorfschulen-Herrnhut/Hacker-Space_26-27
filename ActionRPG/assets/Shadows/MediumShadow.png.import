@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5ikw4ax7xege"
-path="res://.godot/imported/MediumShadow.png-022579ffc5b47cc151ebfee850f601c9.ctex"
+path="res://.godot/imported/MediumShadow.png-a1796c5f2ea585b3f3887a0b4467582d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Action RPG Resources/Shadows/MediumShadow.png"
-dest_files=["res://.godot/imported/MediumShadow.png-022579ffc5b47cc151ebfee850f601c9.ctex"]
+source_file="res://assets/Shadows/MediumShadow.png"
+dest_files=["res://.godot/imported/MediumShadow.png-a1796c5f2ea585b3f3887a0b4467582d.ctex"]
 
 [params]
 
